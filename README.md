@@ -5,7 +5,6 @@ Personalized models that predict mortality and the need for a mechanical ventila
 - Wollenstein-Betech S, Silva A.A.B., Fleck J.L., Cassandras C.G., Paschalidis I.C.
 ***"Physiological and socioeconomic characteristics predict COVID-19 mortality and resource utilization in Brazil"*** (2020). PLOS ONE 15(10): e0240346. https://doi.org/10.1371/journal.pone.0240346
 
-## Instructions:
 ## Install and use:
 - To build local:
     - Requirements:
