@@ -1,4 +1,4 @@
-# covid-brazil  (predictive models) 
+# covid-brazil
 Personalized models that predict mortality and the need for a mechanical ventilator for COVID-19 symptomatic patients.
 
 ## Publication:
